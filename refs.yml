@@ -1,39 +1,27 @@
-# 英文学術論文誌
-zouyama2015theory:
-    type: Article
-    title: Asymptotic size limit of two-entangled elephants egg in generalized homogeneous environment
-    author: ["Zouyama, Zoutarou"]
-    page-range: 122–130
-    date: 2015
-    parent:
-        type: Periodical
-        title: Journal of Measurement of Elephants
-        volume: 5
-        issue: 2
-        publisher: JSPS
+SunakawaQM:
+    type: Book
+    author: ["砂川, 重信"]
+    title: 量子力学
+    publisher: 岩波書店
+    year: 1991
 
-# 和文学術論文誌
-zouyama2017drone:
-    language: jp
-    type: Article
-    title: 擬態ドローンを用いた自然界における参与観察法について
-    author: ["象山, 象太郎"]
-    page-range: 337–345
-    date: 2017
-    parent:
-        type: Periodical
-        title: 計測環境学会論文集
-        volume: 53
-        issue: 6
-        publisher: 公益社団法人 計測環境保全学会
+TasakiFock:
+    type: Report
+    author: ["田崎, 晴明"]
+    title: 非相対論的量子力学における生成・消滅演算子の方法（いわゆる「第二量子化」）の手引き
+    year: 2020
+    URL: https://www.gakushuin.ac.jp/~881791/pdf/2ndQNoteJ.pdf
 
-# 国際会議論文
-zouyama2021AiL:
-    type: Article
-    author:  ["Zouyama, Zoutaro"]
-    title: Animal-in-the-loop framework for robotic approach to environmentology
-    date: 2021
-    # page-range: 1-6
-    parent:
-        - type: Proceedings
-          title: IACON2021 - 47th annual conference of the IEEE industrial electronics society of animals
+
+WeinbergJa1:
+    type: Book    
+    author: 
+        - "S.Weinberge"
+        - "青山（訳）, 秀明"
+        - "有末（訳）, 宏明"
+    title: 場の量子論. 1巻 (粒子と量子場)
+    series: 物理学叢書 ; 75
+    number: 1巻 (粒子と量子場)
+    publisher: 吉岡書店
+    year: 1997
+    language: ja

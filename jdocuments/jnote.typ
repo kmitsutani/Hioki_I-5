@@ -15,7 +15,8 @@
   // Configure the page.
   set page(
     paper: "a4",
-    margin: (top: 20mm, bottom: 27mm, x: 20mm)
+    margin: (top: 20mm, bottom: 27mm, x: 20mm),
+    numbering: "1 / 1"
   )
 
   set text(size: 10pt, font: mincho)
